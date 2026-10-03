@@ -1,0 +1,15 @@
+:root {
+    --vermelho-sangue: ##AA0000
+    --preto-fosco: ##161616
+    --texto: #000000
+    --link: ##2A4B7C
+}
+body { 
+    font-family:Arial, Helvetica, sans-serif; 
+    margin:0; 
+    background-color: var(--vermelho-sangue);
+    color: var("--texto")
+
+}
+
+
